@@ -25,5 +25,5 @@ Get a chance to be a part of engineering teams. Apply [now](https://bit.ly/tceto
 1. ERP
 2. Canteen Management System
 
-#### TCET Open Source supports the use and distribution of Free and Open Source Softwar (FOSS). None of the projects in this Organization are restricted by patents and their source codes are accessible to everyone as per licences of respective repository.
+#### TCET Open Source supports the use and distribution of Free and Open Source Software (FOSS). None of the projects in this Organization are restricted by patents and their source codes are accessible to everyone as per licences of respective repository.
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
